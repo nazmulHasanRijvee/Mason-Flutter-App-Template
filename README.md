@@ -55,13 +55,13 @@ This creates a `mason.yaml` file in your project directory.
 Add this Mason template from GitHub to your project:
 
 ```bash
-mason add remote --source git https://github.com/yourusername/mason_app_temlate.git
+mason add flutter_app_template --source git https://github.com/yourusername/mason_app_temlate.git
 ```
 
 Or if you prefer to use a specific branch:
 
 ```bash
-mason add remote --source git https://github.com/yourusername/mason_app_temlate.git --ref main
+mason add flutter_app_template --source git https://github.com/yourusername/mason_app_temlate.git --ref main
 ```
 
 ### Step 4: Generate Your App
