@@ -1,10 +1,7 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:mason_app_temlate/core/providers/theme_provider.dart';
-import 'package:mason_app_temlate/core/routes/part_of.dart';
-import 'package:mason_app_temlate/core/static/theme/theme.dart';
 
 class MyApp extends ConsumerWidget {
   const MyApp({super.key});

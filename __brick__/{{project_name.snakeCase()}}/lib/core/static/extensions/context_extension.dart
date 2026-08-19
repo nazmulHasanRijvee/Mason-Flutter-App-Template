@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// extension's on BuildContext class for cleanly or shortly accessing
 // MediaQuery like context.mqSizeOfWidth and other things in UI 
